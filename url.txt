@@ -1,1 +1,1 @@
-https://terrain-connection-jeffrey-proven.trycloudflare.com
+https://api.trycloudflare.com
